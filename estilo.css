@@ -1,0 +1,82 @@
+ .titulo{
+     width:100%;
+    background-color: #E5B839;   
+    text-align: center;        
+ }
+
+ /*
+ .izquierda{
+    
+ }
+ .derecha{
+
+ }
+*/
+ .titulo img{
+    width: 100px;    
+ }
+  .tituloamparo{    
+    margin-left: 20px;    
+    color:rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: 900;
+    font-family: sans-serif;
+     
+}
+.global{
+    background-color:rgb(255, 255, 255);
+    width:300px;
+    height: 420px;
+    float:left;
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-top: 30px;
+    border-radius: 0% 0% 0% 0%;    
+    border-style: solid;
+    box-shadow: 3px 6px 5px #444242;
+}
+.global p{
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.global ul {
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-right: 35px;
+}
+
+.global a{
+    text-decoration: none;
+    color: #ffffff;
+    float: right;
+    margin-right: 20px;    
+    background-color: gray;
+    padding: 6px;
+}
+.global a:hover{
+    background-color: rgb(68, 68, 68);
+    box-shadow: 3px 6px 10px #444242;
+}
+
+.global img{
+    width:130px;
+    display:block;
+    margin:auto;
+}
+
+.persoonalsalud{   
+    border-color:midnightblue;    
+}
+.enfermos{    
+    border-color:rgb(42, 128, 21);
+
+}
+.empresas{
+    border-color:rgb(173, 33, 33);    
+}
+.controlatencion{
+    border-color:rgb(240, 30, 222);
+}
+
